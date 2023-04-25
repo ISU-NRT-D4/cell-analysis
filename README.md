@@ -10,4 +10,5 @@ Contains Source code for:
 # cell-analysis
 Automated analysis of stem cell images and stem cell data
 # Code and trained models for the work partially supported by the National Science Foundation Award #2152117
+#Findings, opinions, and conclusions expressed in this paper do not necessarily reflect the view of the funding agency.
  
