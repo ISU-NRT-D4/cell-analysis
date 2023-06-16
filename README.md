@@ -6,4 +6,4 @@ Findings, opinions, and conclusions expressed in this paper do not necessarily r
 Projects on Cell Analysis will be added under this repository.
 
 Published Papers:
-"IDCIA: Immunocytochemistry Dataset for Cellular Image Analysis"
+1. "IDCIA: Immunocytochemistry Dataset for Cellular Image Analysis"
